@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Alperen/AndroidStudioProjects/GymApp/app/src/main/res/drawable-v24/ic_cardview_border.xml" value="0.13" />
+        <entry key="..\:/Users/Alperen/AndroidStudioProjects/GymApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.105" />
+        <entry key="..\:/Users/Alperen/AndroidStudioProjects/GymApp/app/src/main/res/drawable/custom_button.xml" value="0.105" />
+        <entry key="..\:/Users/Alperen/AndroidStudioProjects/GymApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.105" />
+        <entry key="..\:/Users/Alperen/AndroidStudioProjects/GymApp/app/src/main/res/layout/activity_alarm.xml" value="0.22146739130434784" />
+        <entry key="..\:/Users/Alperen/AndroidStudioProjects/GymApp/app/src/main/res/layout/activity_detail.xml" value="0.264" />
+        <entry key="..\:/Users/Alperen/AndroidStudioProjects/GymApp/app/src/main/res/layout/activity_exercise.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Alperen/AndroidStudioProjects/GymApp/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Users/Alperen/AndroidStudioProjects/GymApp/app/src/main/res/layout/activity_notification.xml" value="0.2296875" />
+        <entry key="..\:/Users/Alperen/AndroidStudioProjects/GymApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.2296875" />
+        <entry key="..\:/Users/Alperen/AndroidStudioProjects/GymApp/app/src/main/res/layout/activity_youtube.xml" value="0.2" />
+        <entry key="..\:/Users/Alperen/AndroidStudioProjects/GymApp/app/src/main/res/layout/activity_youtube_player.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Alperen/AndroidStudioProjects/GymApp/app/src/main/res/layout/card_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Alperen/AndroidStudioProjects/GymApp/app/src/main/res/layout/list_item.xml" value="0.2296875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/GymApp/app/src/main/res/layout/activity_chair_dips.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/GymApp/app/src/main/res/layout/activity_exercise.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/GymApp/app/src/main/res/layout/activity_lunge.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/GymApp/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/GymApp/app/src/main/res/layout/activity_notification.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/GymApp/app/src/main/res/layout/activity_plank.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/GymApp/app/src/main/res/layout/activity_pull_up.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/GymApp/app/src/main/res/layout/activity_push_up.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/GymApp/app/src/main/res/layout/activity_side_plank.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/GymApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/GymApp/app/src/main/res/layout/activity_squat.xml" value="0.2" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/GymApp/app/src/main/res/layout/activity_star_jump.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/GymApp/app/src/main/res/layout/card_layout.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/merto/Desktop/GymApp/app/src/main/res/layout/activity_main.xml" value="0.33559782608695654" />
+        <entry key="..\:/Users/merto/Desktop/GymApp/app/src/main/res/layout/activity_plank.xml" value="0.33559782608695654" />
+        <entry key="..\:/Users/merto/Desktop/GymApp/app/src/main/res/layout/activity_youtube_player.xml" value="0.33559782608695654" />
+        <entry key="..\:/Users/merto/Desktop/GymApp/app/src/main/res/layout/activity_youtube_player_activiyu.xml" value="0.33559782608695654" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
